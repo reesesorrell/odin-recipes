@@ -1,0 +1,1 @@
+This project aims to create a basic interlinked recipe site using html. It showcases skills in pushing code through git.
