@@ -1,0 +1,21 @@
+* {
+    background-color: #F3D8C7;
+}
+
+.border {
+    border: 4px solid #EFE5DC;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.centertext {
+    text-align: center;
+}
+
+.bottom {
+    padding-bottom: 70px;
+}
